@@ -3,12 +3,12 @@
 A simple multi-client chat application using Python's `socket` and `threading` modules. This application allows multiple users to communicate in real-time over a local network.
 
 ## Features
-✅ **Multi-Client Support** - Multiple users can join and chat simultaneously.
-✅ **Nickname System** - Each user chooses a unique nickname.
-✅ **Broadcast Messaging** - Messages are sent to all connected users.
-✅ **Graceful Disconnection Handling** - Clients and server handle disconnects properly.
-✅ **Command for Exit** - Type `/exit` to leave the chat.
-✅ **Optimized Performance** - Uses threading for concurrent handling.
+✅ **Multi-Client Support** - Multiple users can join and chat simultaneously. <br/>
+✅ **Nickname System** - Each user chooses a unique nickname. <br/>
+✅ **Broadcast Messaging** - Messages are sent to all connected users. <br/>
+✅ **Graceful Disconnection Handling** - Clients and server handle disconnects properly. <br/>
+✅ **Command for Exit** - Type `/exit` to leave the chat. <br/>
+✅ **Optimized Performance** - Uses threading for concurrent handling. <br/>
 
 ## Installation
 ### Prerequisites
