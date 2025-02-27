@@ -7,7 +7,7 @@ A simple multi-client chat application using Python's `socket` and `threading` m
 ✅ **Nickname System** - Each user chooses a unique nickname. <br/>
 ✅ **Broadcast Messaging** - Messages are sent to all connected users. <br/>
 ✅ **Graceful Disconnection Handling** - Clients and server handle disconnects properly. <br/>
-✅ **Command for Exit** - Type `/exit` to leave the chat. <br/>
+✅ **No Explicit Exit Break** - Supports the `/exit` command for graceful disconnection. <br/>
 ✅ **Optimized Performance** - Uses threading for concurrent handling. <br/>
 
 ## Installation
