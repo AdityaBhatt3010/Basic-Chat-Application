@@ -28,7 +28,7 @@ A simple multi-client chat application using Python's `socket` and `threading` m
    ```bash
    python client.py
    ```
-4. Enter a nickname when prompted, and start chatting!
+4. Enter a username when prompted, and start chatting!
 
 ## How It Works
 ### Server (`server.py`)
