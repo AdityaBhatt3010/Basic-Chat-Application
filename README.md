@@ -33,7 +33,7 @@ A simple multi-client chat application using Python's `socket` and `threading` m
 ## How It Works
 ### Server (`server.py`)
 - Starts a TCP server on `127.0.0.1:55555`.
-- Accepts connections and assigns nicknames.
+- Accepts connections and assigns usernames.
 - Manages message broadcasting.
 - Removes disconnected clients and notifies others.
 
